@@ -46,8 +46,8 @@ export const EXPERIENCE: ExperienceProp[] = [
   {
     dates: "November 2022 — October 2023",
     title: "Junior Developer",
-    company: "IPCS.KZ",
-    companyUrl: "https://ipcs.kz",
+    company: "Paloma365",
+    companyUrl: "https://paloma365.kz/",
     description:
       "Developing Python FastAPI backend services with Django for CRM and client management systems. Integration third-party APIs and payment gateways",
     technologies: [
@@ -56,6 +56,6 @@ export const EXPERIENCE: ExperienceProp[] = [
       "CRM",
       "RestAPI",
     ],
-    logo: "/logos/ipcs.png",
+    logo: "/logos/paloma.png",
   },
 ];
