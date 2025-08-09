@@ -7,7 +7,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     company: "D2D Studio",
     companyUrl: "https://d2d.media",
     description:
-      "Developed IOS Application, Chrome Extension, Web-Sites. Settings up CI/CD Pipelines. Backend for Mobile App (Flutter)",
+      "Developed IOS Application, Chrome Extension, Web-Sites. Settings up CI/CD Pipelines. Backend for Mobile App (Python/FastAPI)",
     technologies: [
       "FastAPI",
       "Next",
@@ -28,11 +28,11 @@ export const EXPERIENCE: ExperienceProp[] = [
   },
   {
     dates: "December 2023 — December 2024",
-    title: "Middle Frontend Developer",
+    title: "Middle Backend Developer",
     company: "PRODVIG",
     companyUrl: "https://prodvig.kz/",
     description:
-      "Built Next.js applications with server-side rendering optimized for real-time network data visualization and API route processing",
+      "Developed backend services using Python (FastAPI, Django) to handle high-throughput API requests and integrate with front-end dashboards",
     technologies: [
       "Next",
       "React",
@@ -40,6 +40,8 @@ export const EXPERIENCE: ExperienceProp[] = [
       "Django",
       "CI/CD",
       "CRM",
+      "FastAPI",
+      "Docker",
     ],
     logo: "/logos/prodvig.jpg",
   },
