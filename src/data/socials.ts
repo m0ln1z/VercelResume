@@ -9,7 +9,7 @@ export const SOCIALS = [
   },
   {
     name: "Linkedin",
-    url: "https://www.linkedin.com/in/артур-ан-02200a352/",
+    url: "https://www.linkedin.com/in/artur-an-65239b44a/",
     icon: IconLinkedin,
   },
 ];
